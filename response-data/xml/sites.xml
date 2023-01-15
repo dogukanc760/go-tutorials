@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sites version="1"> 
+ <site>
+  <Name>www.google.com</Name>
+  <Description>Arama Motoru</Description>
+  <Category>Search Engine</Category>
+ </site>
+ <site>
+  <Name>www.instagram.com</Name>
+  <Description>Sosyal Medya</Description>
+  <Category>Blog</Category>
+ </site>
+ <site>
+  <Name>www.golang.org.tr</Name>
+  <Description>Go Türkiye Topluluğu</Description>
+  <Category>Community</Category>
+ </site>
+</sites>

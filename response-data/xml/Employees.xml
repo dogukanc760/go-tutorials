@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<company>
+  <person>
+    <id>0</id>
+    <firstname>John</firstname>
+    <lastname>Doe</lastname>
+    <username>doe@example.com</username>
+  </person>
+  <person>
+    <id>1</id>
+    <firstname>John</firstname>
+    <lastname>Doe</lastname>
+    <username>doe@example.com</username>
+  </person>
+  <person>
+    <id>2</id>
+    <firstname>John</firstname>
+    <lastname>Doe</lastname>
+    <username>doe@example.com</username>
+  </person>
+  <person>
+    <id>3</id>
+    <firstname>John</firstname>
+    <lastname>Doe</lastname>
+    <username>doe@example.com</username>
+  </person>
+  <person>
+    <id>4</id>
+    <firstname>John</firstname>
+    <lastname>Doe</lastname>
+    <username>doe@example.com</username>
+  </person>
+</company>
