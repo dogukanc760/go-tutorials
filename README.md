@@ -52,8 +52,11 @@ Episode List
 
 [Time Operations](https://github.com/dogukanc760/go-tutorials/tree/main/time-operations)
 
+[Net-HTTP Package](https://github.com/dogukanc760/go-tutorials/tree/main/net-http)
 
+[User Info API](https://github.com/dogukanc760/go-tutorials/tree/main/user-info-api)
 
+[User Login API](https://github.com/dogukanc760/go-tutorials/tree/main/user-login-api)
 
 
 
