@@ -58,6 +58,8 @@ Episode List
 
 [User Login API](https://github.com/dogukanc760/go-tutorials/tree/main/user-login-api)
 
+[Gin Gonic API](https://github.com/dogukanc760/go-tutorials/tree/main/go-gin-rest-api)
+
 
 
 [Finally thank you readme.so for this readme generator.](https://readme.so/)
